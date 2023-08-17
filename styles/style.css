@@ -1,0 +1,13 @@
+body {
+    margin: 1em;
+}
+
+.btn-container {
+    margin-left: 3em;
+    margin-bottom: 2em;
+}
+
+.input-container {
+    margin-left: 3em;
+    width: 50%;
+}
