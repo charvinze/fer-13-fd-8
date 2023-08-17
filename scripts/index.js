@@ -1,11 +1,11 @@
 const arrayOfNames = ["Bryan", "Axel", "Daniel", "Chelsea", "Ethan"];
 
-function ascendingArray(_array) {
-    console.log(_array.sort());
+function ascendingArray() {
+    console.log(arrayOfNames.sort());
 }
 
-function descendingArray(_array) {
-    console.log(_array.reverse());
+function descendingArray() {
+    console.log(arrayOfNames.reverse());
 }
 
 function checkItemArray() {
